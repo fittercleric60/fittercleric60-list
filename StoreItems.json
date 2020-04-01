@@ -3887,7 +3887,7 @@
 		"price": 2300,
 		"category": "YP weapons",
 		"defname": "YP_VectorShot"
-	},
-	],
+	} 
+],
 	"total": 655
 }
