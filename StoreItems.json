@@ -3887,7 +3887,49 @@
 		"price": 2300,
 		"category": "YP weapons",
 		"defname": "YP_VectorShot"
-	} 
+	},
+	{
+		"abr": "advancedmulti-analyzer",
+		"price": 4225,
+		"category": "Misc",
+		"defname": "AdvancedMultiAnalyzer"
+	},
+	{
+		"abr": "improvedcabinet",
+		"price": 917,
+		"category": "Misc",
+		"defname": "ToolCabinetA"
+	},
+	{
+		"abr": "kitchencupboard",
+		"price": 176,
+		"category": "Misc",
+		"defname": "KitchenCupboard"
+	},
+	{
+		"abr": "mechaniccabinet",
+		"price": 1558,
+		"category": "Misc",
+		"defname": "ToolCabinetB"
+	},
+	{
+		"abr": "scientistcabinet",
+		"price": 2425,
+		"category": "Misc",
+		"defname": "ToolCabinetC"
+	},
+	{
+		"abr": "surgicalinstruments",
+		"price": 792,
+		"category": "Misc",
+		"defname": "SurgicalInstruments"
+	},
+	{
+		"abr": "surgicallamp",
+		"price": 198,
+		"category": "Misc",
+		"defname": "SurgicalLamp"
+	}
 ],
-	"total": 655
+	"total": 662
 }
